@@ -1,1 +1,1 @@
-![](https://github.com/majjoha/majjoha/blob/master/github.png?raw=true)
+![](https://github.com/majjoha/majjoha/blob/main/github.png?raw=true)
